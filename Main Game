@@ -89,13 +89,13 @@ Tab:AddButton({
 })
 
 local Tab = Window:MakeTab({
-	Name = "Info for Sayu",
+	Name = "Info for Sayu and Holy",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 Tab:AddLabel("*German... JUHUUU*")
 
-Tab:AddParagraph("Info for Sayu","Öffne `Death GUI` dann geh zu Misc, und schalte (wenn du reaper benutzt, was das beste wäre) Autofarm Thugs, und Auto Move: Y,T,R an. sowie den autoclick und auto sakuya quest von meinem script, und dazu einmal auf anti afk clicken c:")
+Tab:AddParagraph("Info","Öffne `Death GUI` dann geh zu Misc, und schalte (wenn du reaper benutzt, was das beste wäre) Autofarm Thugs, und Auto Move: Y,T,R an. sowie den autoclick und auto sakuya quest von meinem script, und dazu einmal auf anti afk clicken c:")
 
 local Tab = Window:MakeTab({
 	Name = "Credits",
